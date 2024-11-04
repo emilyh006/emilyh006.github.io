@@ -1,0 +1,57 @@
+
+---
+title: |
+  \LARGE Emily Han \
+  \vspace{10pt} 
+  \small \href{https://github.com/emilyh006}{GitHub} | \href{https://www.linkedin.com/in/thwe-nwe-han/}{LinkedIn} | \href{https://yourwebsite.com}{Website} | \href{mailto:emh006@ucsd.edu}{Email} 
+output-file: emily_han_cv.pdf
+pdf-engine: xelatex
+fontsize: 12pt
+---
+
+## Education
+|                |                                       |
+|----------------|---------------------------------------|
+| **2024 - Present** | M.S in Computational Social Science [University of California, San Diego (UCSD)] |
+| **2020 - 2023** | B.S in Psychological and Brain Science [University of California, Santa Babara (UCSB)] |
+
+
+
+## Research Experience
+
+|                    |                                                   |
+|--------------------|---------------------------------------------------|
+| **2024 - Present** | IMPACT Lab (UCSD) - Graduate Research Assistant   |
+| **2022 - 2023**    | VIU Lab (UCSB) - Undergraduate Research Assistant |
+
+
+##### IMPACT Lab
+- **Project:** Social Cognition of Face Processing (In Progress)
+- Developing the web interface and data management for the study investigating on how individuals form rapid social judgments, particularly focusing on perceptions of corruptibility in politicians based on facial cues.
+
+##### VIU Lab  
+- **Project:** Neural Pathways of Face Perception
+- Assisted with data collection and experimental setup for studies which investigated neural mechanisms of individuals with a unique initial focus on the eyes and mouth of the face during face perception using psychophysics and computational modeling
+
+
+
+
+## Projects
+|                    |                                                    |
+|--------------------|----------------------------------------------------|
+| **2024 - Present** | Development of Deep Learning Wrappers |
+| **2024 - Present** | Replication Study of “How Quick Decisions Illuminate Moral Character” by Critcher et al. (2013) |
+| **2022 - 2023** | Independent Research Project: Cultural Background and Cognitive Processing Styles |
+
+(See website for details)
+
+
+
+## Skills
+
+|                    |                                                   |
+|-------------------|-----------------------------------------------------|
+| **Programming** | Python, R: machine learning, data wrangling, data analysis, data visualization |
+| **Web Development** | HTML, JavaScript, jQuery |
+| **Research Skills** | Experimental designs, Statistical Analysis, Data management and documentation |
+| **Tools** | Eye Tracking Technology, MATLAB (Psychtoolbox), JS Psych, Qualtric, Prolific |
