@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Home</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div id="sidebar-container" style="font-size: 1.3em;"></div>
+  <div id="main-content" class="main">
+    <h1 style="font-size: 3em;"> Hello!</h1>
+    <h3 style="font-size: 1.4em;">I am Emily Han. I am graduate student studying <b>Computational Social Science</b> at UC San Diego.</h3>
+    <p style="font-size: 1.2em;">My interests lie in applying <b>computational methods</b> to understand <b>social cognition and behavior</b>. I am particularly interested in how social impression formation works and how factors like individual differences—such as cultural background or face processing abilities—affect these cognitive processes.</p>
+    
+    <p style="font-size: 1.2em;">I also work on developing scalable, efficient tools to help social scientists leverage the power of deep learning in their research. By creating open-source, user-friendly tools, I hope to make cutting-edge technology more accessible for studying human behavior, including areas like social perception, decision-making, and emotion recognition.</p>
+
+    <p style="font-size: 1.2em;">As I continue exploring the intersection of technology and human cognition, I am excited to share my work, ideas, and research findings with others. Feel free to explore my projects and reach out if you're interested in discussing anything related to computational social science, face perception, or machine learning.</p>
+
+    <p style="font-size: 1.2em;">A fun fact about me: my legal name is Thwe Nwe Han. It's a unique name that can be quite tricky to pronounce unless you're familiar with my native language, Burmese (Myanmar). So, if you ever come across someone with a similar name, you'll know it's a bit of a challenge to get it just right! You are not alone!</p>
+
+
+    <p><b>And if you'd like to chat, the best way to reach me is via <a href="mailto:emh006@ucsd.edu">email</a>.</b></p>
+  </div>
+  <script>
+    async function loadSidebar() {
+      const response = await fetch('sidebar.html');
+      const sidebarHTML = await response.text();
+      document.getElementById('sidebar-container').innerHTML = sidebarHTML;
+
+      const currentPage = location.pathname.split('/').pop();
+      document.querySelectorAll('.nav-link').forEach(link => {
+        if (link.getAttribute('href') === currentPage) {
+          link.classList.add('active');
+        }
+      });
+    }
+    loadSidebar();
+  </script>
+</body>
+</html>

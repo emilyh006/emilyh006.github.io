@@ -1,0 +1,203 @@
+/* General reset for all elements */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Basic styling for the entire body of the page */
+body {
+  height: 100%; /* Full height of the viewport */
+  margin: 0;
+  font-family: 'Lato', sans-serif;
+  display: flex;
+  flex-direction: row;
+}
+
+/* Sidebar styling */
+.sidebar, #sidebar-container {
+  width: 250px;  /* Sidebar width */
+  background-color: #8C4F42;
+  color: #FFFFFF;
+  padding: 20px;
+  position: fixed;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  top: 0;
+}
+
+/* Profile section within the sidebar */
+.profile {
+  text-align: center;
+  margin-top: 50%;
+  margin-bottom: 30px;
+}
+
+.avatar {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 10px;
+}
+
+.profile h1 {
+  font-size: 1.5em;
+  margin-bottom: 6px;
+}
+
+.profile h4 {
+  font-size: 0.9em;
+  font-weight: normal;
+  color: #eee;
+  margin-bottom: 30px;
+}
+
+/* Navigation menu styling */
+nav ul {
+  list-style: none;
+  width: 100%;
+  padding-left: 0;
+}
+
+nav ul li {
+  margin-bottom: 15px;
+}
+
+/* Styling for each navigation link */
+.nav-link {
+  color: #FFFFFF;
+  text-decoration: none;
+  font-weight: bold;
+  display: block;
+  padding: 10px;
+  text-align: center;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.nav-link:hover,
+.nav-link.active {
+  background-color: #a65d52;
+}
+
+/* Social media icons styling */
+.social-icons {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  margin-top: 200px;
+}
+
+.social-icons a {
+  color: #FFFFFF;
+  font-size: 1.5em;
+  transition: color 0.3s;
+}
+
+.social-icons a:hover {
+  color: #ddd;
+}
+
+/* Main content area styling for the index page */
+.main {
+  margin-left: 270px; /* Space for sidebar */
+  margin-top: 100px;
+  padding: 40px 20px;
+  width: calc(100% - 270px);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start; /* Align content to the top */
+  align-items: flex-start; /* Align content to the left */
+}
+
+/* Styling for headers and paragraphs in main content */
+.main h1 {
+  color: #333;
+  margin-bottom: 40px;
+}
+
+.main h3 {
+  color: #555;
+  margin-bottom: 15px;
+}
+
+.main p {
+  font: 1.6em;
+  color: #333;
+  line-height: 1.6;
+  margin-bottom: 15px;
+}
+
+/* Link styling */
+.main a {
+  color: #8C4F42;
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.3s;
+}
+
+.main a:hover {
+  color: #a65d52;
+}
+
+/* Main content area styling */
+.content {
+  margin-left: 270px; /* Leaves space for the fixed sidebar */
+  padding: 20px; /* Adds padding inside the content area */
+}
+
+.container {
+  margin-left: 300px; /* Sidebar width to leave space on left */
+  width: calc(100vw - 250px); /* Ensure content takes full width of the screen, minus the sidebar */
+  padding: 50px;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Iframe styling to take full width and height */
+#cv-iframe, #project-iframe {
+  width: calc(100vw - 250px);
+  height: 100vh;
+  border: none;
+  padding: 25px;
+}
+
+/* Make the sidebar responsive on smaller screens */
+@media (max-width: 768px) {
+  .sidebar {
+    width: 200px;
+  }
+
+  .container {
+    margin-left: 200px; /* Adjust for smaller sidebar */
+    width: calc(100vw - 200px); /* Adjust content width */
+  }
+
+  #cv-iframe {
+    height: 80vh;
+  }
+}
+
+/* Make the sidebar fully collapsible on extremely small screens */
+@media (max-width: 480px) {
+  .sidebar {
+    width: 100%;
+    height: auto;
+    position: relative;
+    padding: 10px;
+  }
+
+  .container {
+    margin-left: 0;
+    width: 100vw; /* Full width for mobile */
+  }
+
+  #cv-iframe {
+    height: 60vh;
+  }
+}

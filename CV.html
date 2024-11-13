@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CV</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div id="sidebar-container"></div>
+  <div class="container">
+   
+    
+    <!-- Embed cv.html using iframe -->
+    <div id="cv-container">
+      <iframe src="pages/cv.html" id="cv-iframe">
+        Your browser does not support iframes. Please <a href="pages/cv.html" download>download the CV here</a>.
+      </iframe>
+    </div>
+  </div>
+
+  <script>
+    async function loadSidebar() {
+      const response = await fetch('sidebar.html');
+      const sidebarHTML = await response.text();
+      document.getElementById('sidebar-container').innerHTML = sidebarHTML;
+  
+      const currentPage = location.pathname.split('/').pop();
+      document.querySelectorAll('.nav-link').forEach(link => {
+        if (link.getAttribute('href') === currentPage) {
+          link.classList.add('active');
+        }
+      });
+    }
+    loadSidebar();
+  </script>
+  
+</body>
+</html>
