@@ -44,7 +44,7 @@
 | **2022 - 2023**    | Independent Research Project: Cultural Background and Cognitive Processing Styles                      |
 |    |  |
 
-(See [Project Page](https://emilyh006.github.io/projects/) for details)
+(See [Project Page](https://emilyh006.github.io/Projects.html) for details)
 
 
 
