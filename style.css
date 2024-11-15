@@ -37,20 +37,20 @@ body {
 }
 
 .avatar {
-  width: 150px;
-  height: 150px;
+  width: 160px;
+  height: 160px;
   border-radius: 50%;
   object-fit: cover;
   margin-bottom: 10px;
 }
 
 .profile h1 {
-  font-size: 8em;
+  font-size: 1.2em;
   margin-bottom: 6px;
 }
 
 .profile h4 {
-  font-size: 0.4em;
+  font-size: 0.8em;
   font-weight: normal;
   color: #eee;
   margin-bottom: 30px;
@@ -93,7 +93,7 @@ nav ul li {
 
 .social-icons a {
   color: #FFFFFF;
-  font-size: 1em;
+  font-size: 1.5em;
   transition: color 0.3s;
 }
 
