@@ -16,7 +16,7 @@ body {
 
 /* Sidebar styling */
 .sidebar, #sidebar-container {
-  width: 260px;  /* Sidebar width */
+  width: 250px;  /* Sidebar width */
   background-color: #8C4F42;
   color: #FFFFFF;
   padding: 20px;
@@ -88,7 +88,7 @@ nav ul li {
   display: flex;
   justify-content: center;
   gap: 15px;
-  margin-top: 80px;
+  margin-top: 70px;
 }
 
 .social-icons a {
