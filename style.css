@@ -16,7 +16,7 @@ body {
 
 /* Sidebar styling */
 .sidebar, #sidebar-container {
-  width: 250px;  /* Sidebar width */
+  width: 260px;  /* Sidebar width */
   background-color: #8C4F42;
   color: #FFFFFF;
   padding: 20px;
@@ -36,23 +36,23 @@ body {
 }
 
 .avatar {
-  width: 175px;
-  height: 175px;
+  width: 180px;
+  height: 180px;
   border-radius: 50%;
   object-fit: cover;
   margin-bottom: 10px;
 }
 
 .profile h1 {
-  font-size: 1.2em;
+  font-size: 1.6em;
   margin-bottom: 6px;
 }
 
 .profile h4 {
-  font-size: 0.9em;
+  font-size: 1.2em;
   font-weight: normal;
   color: #eee;
-  margin-bottom: 30px;
+  margin-bottom: 40px;
 }
 
 /* Navigation menu styling */
@@ -60,6 +60,7 @@ nav ul {
   list-style: none;
   width: 100%;
   padding-left: 0;
+  font-size: 1.3em;
 }
 
 nav ul li {
@@ -118,6 +119,7 @@ nav ul li {
 /* Styling for headers and paragraphs in main content */
 .main h1 {
   color: #333;
+  margin-top: 30px;
   margin-bottom: 40px;
 }
 
@@ -153,7 +155,7 @@ nav ul li {
 
 .container {
   margin-left: 300px; /* Sidebar width to leave space on left */
-  width: calc(100vw - 250px); /* Ensure content takes full width of the screen, minus the sidebar */
+  width: calc(100vw - 300px); /* Ensure content takes full width of the screen, minus the sidebar */
   padding: 50px;
   min-height: 100vh;
   display: flex;
