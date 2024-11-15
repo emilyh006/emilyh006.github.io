@@ -106,7 +106,6 @@ nav ul li {
 /* Main content area styling for the index page */
 .main {
   margin-left: 270px; /* Space for sidebar */
-  margin-top: 50px;
   padding: 40px 20px;
   width: calc(100% - 270px);
   min-height: 100vh;
