@@ -44,12 +44,12 @@ body {
 }
 
 .profile h1 {
-  font-size: 1.6em;
+  font-size: 1.3em;
   margin-bottom: 6px;
 }
 
 .profile h4 {
-  font-size: 1.2em;
+  font-size: 1em;
   font-weight: normal;
   color: #eee;
   margin-bottom: 40px;
@@ -60,7 +60,7 @@ nav ul {
   list-style: none;
   width: 100%;
   padding-left: 0;
-  font-size: 1.3em;
+  font-size: 1em;
 }
 
 nav ul li {
@@ -88,7 +88,7 @@ nav ul li {
   display: flex;
   justify-content: center;
   gap: 15px;
-  margin-top: 100px;
+  margin-top: 80px;
 }
 
 .social-icons a {
@@ -106,9 +106,9 @@ nav ul li {
 
 /* Main content area styling for the index page */
 .main {
-  margin-left: 270px; /* Space for sidebar */
+  margin-left: 300px; /* Space for sidebar */
   padding: 40px 20px;
-  width: calc(100% - 270px);
+  width: calc(100% - 300px);
   min-height: 100vh;
   display: flex;
   flex-direction: column;
