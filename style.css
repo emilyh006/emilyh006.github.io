@@ -49,7 +49,7 @@ body {
 }
 
 .profile h4 {
-  font-size: 0.7em;
+  font-size: 0.9em;
   font-weight: normal;
   color: #eee;
   margin-bottom: 30px;
@@ -106,7 +106,7 @@ nav ul li {
 /* Main content area styling for the index page */
 .main {
   margin-left: 270px; /* Space for sidebar */
-  margin-top: 100px;
+  margin-top: 50px;
   padding: 40px 20px;
   width: calc(100% - 270px);
   min-height: 100vh;
