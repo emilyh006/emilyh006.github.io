@@ -49,10 +49,10 @@ body {
 }
 
 .profile h4 {
-  font-size: 0.9em;
+  font-size: 1.2em;
   font-weight: normal;
   color: #eee;
-  margin-bottom: 40px;
+  margin-bottom: 35px;
 }
 
 /* Navigation menu styling */
@@ -60,7 +60,7 @@ nav ul {
   list-style: none;
   width: 100%;
   padding-left: 0;
-  font-size: 1em;
+  font-size: 1.3em;
 }
 
 nav ul li {
@@ -88,7 +88,7 @@ nav ul li {
   display: flex;
   justify-content: center;
   gap: 15px;
-  margin-top: 70px;
+  margin-top: 60px;
 }
 
 .social-icons a {
