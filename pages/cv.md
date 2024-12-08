@@ -21,7 +21,7 @@
 |--------------------|---------------------------------------------------|
 | **2024 - Present** | IMPACT Lab (UCSD) - Graduate Research Assistant   |
 | **2022 - 2023**    | VIU Lab (UCSB) - Undergraduate Research Assistant |
-|    |  |
+
 
 
 #### Graduate Research Assistant
@@ -52,7 +52,7 @@
 | **2024 - Present** | Investigating the generalizability and mechanism of the association between corruptible look and corruption record        |
 | **2024 - 2024**    | Replication Study of “How Quick Decisions Illuminate Moral Character” by Critcher et al. (2013)                      |
 | **2022 - 2023**    | A Preference to Look Closer to the Eyes is Associated with a Position-Invariant Face Neural Code                    |
-| **2022 - 2023**    | Independent Research Project: Cultural Background and Cognitive Processing Styles                      |
+| **2022 - 2023**    | Effect of Cultural Priming: Information Processing and Social Perception Among Bicultural Individuals                       |
 
 (See [Project Page](https://emilyh006.github.io/Projects.html) for details)
 
