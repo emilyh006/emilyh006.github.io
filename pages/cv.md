@@ -56,7 +56,7 @@
 | **A Preference to Look Closer to the Eyes is Associated with a Position-Invariant Face Neural Cod** <br> *2022 - 2023* | Examined how fixation preferences on faces (eyes vs. mouth) influence neural representations and position invariance in face perception.          | Eye-tracking data collection, Data collection  | Collected and analyzed gaze-contingent adaptation data through eye tracking to study neural mechanisms.                                                                |
 | **Effect of Cultural Priming on Bicultural Individuals** <br> *2022 - 2023* | Investigated cognitive styles (holistic vs. analytical) influenced by individualistic and collectivistic cultural primes among bicultural people. | Experimental design, statistical analysis (R)     | Designed surveys in Qualtrics and performed statistical analyses using R                                                                  |
 
-**See [Project Page](Projects.html) for detail** 
+**See [Project Page](project.html) for detail** 
 
 ---
 
