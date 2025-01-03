@@ -12,6 +12,8 @@
   - Machine Learning for Social Science  
   - Advanced Statistical Applications  
 
+
+
 #### B.S. in Psychological and Brain Science  
 **University of California, Santa Barbara (UCSB)** | **Sep 2020 - Sep 2023**  
 - **Relevant Coursework:**  
@@ -30,6 +32,8 @@
 - Built web interfaces for online trait-rating studies, optimizing data collection and participant engagement.  
 - Managed and analyzed data on rapid social judgments, focusing on perceptions of corruptibility in politicians based on facial cues.  
 
+
+
 #### Undergraduate Research Assistant  
 *VIU Lab* at University of California, Santa Barbara (UCSB) | **2022 - 2023**  
 - Recruited participants and collected data using psychophysical measures (eye tracking).  
@@ -39,7 +43,7 @@
 
 #### Independent Projects  
 **2022 - 2024**  
-- Led two comprehensive research studies as part of academic coursework:  
+- Conducted two comprehensive research studies as part of academic coursework:  
   - *Replication Study: "How Quick Decisions Illuminate Moral Character" (2024)*  
   - *Effect of Cultural Priming on Bicultural Individuals (2022)*  
 - Managed the entire research process; including survey/web development, participant recruitment, data collection, statistical analysis, and presenting findings.  
@@ -48,28 +52,47 @@
 
 ## Projects
 
-| **Project Title**                                             | **Description**                                                                                                                                   | **Skills Learned**                                     | **Methods/Techniques**                                                                                       |
-|---------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
-| **Development of Deep Learning Wrappers (Capstone Project)** <br> *2024 - Present* | Simplify the application of deep learning libraries in computational social science research with scalable wrappers and advanced data imputation methods.       | Machine learning library integration, workflow automation | Built scalable wrappers for TensorFlow, PyTorch, and MLX; automated pre-processing workflows for tabular and non-tabular data.                    |
-| **Investigating the Generalizability and Mechanism of Corruptibility Perceptions** <br> *2024 - Present* | Explored how facial features influence perceptions of corruptibility across cultural contexts.                                                     | Web development, Data analysis, Data cleaning | Created web-based surveys using HTML, CSS, and JavaScript; analyzed cross-cultural datasets using R                                                      |
-| **Replication Study: "How Quick Decisions Illuminate Moral Character"** <br> *2024 - 2024* | Replicating Critcher et al. (2013) study on moral judgments based on decision speed.                                                            | Experimental design,  Web development, Data analysis | Designed experiments using jsPsych, and used R for analysis and visualization.                                                                           |
-| **A Preference to Look Closer to the Eyes is Associated with a Position-Invariant Face Neural Cod** <br> *2022 - 2023* | Examined how fixation preferences on faces (eyes vs. mouth) influence neural representations and position invariance in face perception.          | Eye-tracking data collection, Data collection  | Collected and analyzed gaze-contingent adaptation data through eye tracking to study neural mechanisms.                                                                |
-| **Effect of Cultural Priming on Bicultural Individuals** <br> *2022 - 2023* | Investigated cognitive styles (holistic vs. analytical) influenced by individualistic and collectivistic cultural primes among bicultural people. | Experimental design, statistical analysis (R)     | Designed surveys in Qualtrics and performed statistical analyses using R                                                                  |
+#### Capstone Project  
+- **Development of Deep Learning Wrappers** *(2024 - Present)* 
+  - Develop scalable wrappers for deep learning libraries to streamline computational research, including data imputation.  
+  - **Methods/Techniques:** Built wrappers for TensorFlow, PyTorch, and MLX; automated data pre-processing; integrated deep learning libraries and optimized workflows.  
+<br>
 
-**See [Project Page](project.html) for detail** 
+#### Supervised Research Projects  
+- **Investigating the Generalizability and Mechanism of Corruptibility Perceptions** *(2024 - Present)*  
+  - Explore perceived corruptibility of American politicians across cultures, races, and genders.  
+  - **Methods/Techniques:** Developed web-based surveys using HTML, CSS, and JavaScript; analyzed cross-cultural datasets using R, focusing on data cleaning and interpretation.  
+- **A Preference to Look Closer to the Eyes is Associated with a Position-Invariant Face Neural Code** *(2022 - 2023)*  
+  - Examined how gaze preferences influence face neural representations using eye-tracking data.  
+  - **Methods/Techniques:** Collected gaze-contingent adaptation data through eye-tracking and MATLAB, and performed statistical analysis using R.  
+<br>
+
+
+#### Team Research Projects   
+*2022 - 2024*  
+- **Replication Study: "How Quick Decisions Illuminate Moral Character"** 
+  - Investigated moral judgments based on decision speed through a replication of Critcher et al. (2013).  
+  - **Methods/Techniques:** Designed experiments using jsPsych, performed statistical analysis and data visualization in R, and developed web-based experimental platforms.  
+- **Effect of Cultural Priming on Bicultural Individuals** 
+  - Studied the impact of cultural priming on cognitive styles in bicultural individuals.  
+  - **Methods/Techniques:** Designed surveys in Qualtrics, conducted participant recruitment through social media, and performed statistical analyses using R.  
+
+
+<br>
+<br>
+
+**See [Project Page](project.html) for further detail** 
 
 ---
 
 ## Skills
 
 
-| **Domain**               | **Skills**                                                                 |
-|--------------------------|---------------------------------------------------------------------------|
-| **Programming**           | R, Python, JavaScript, HTML/CSS                                           |
-| **Experiment Design**     | Designing and conducting experiments using online platforms (e.g., jsPsych, Prolific); knowledge of experimental paradigms and research methodologies |
-| **Data Management & Processing** | Expertise in organizing, cleaning, and processing experimental datasets; proficiency in data wrangling, manipulation, and visualization |
-| **Statistical Analysis**  | Conducting statistical analysis, including hypothesis testing, regression modeling, and effect size estimations |
-| **Tools**     | GitHub, R Studio, Eye Tracking Technology, MATLAB (Psychtoolbox), jsPsych, Qualtrics, Prolific |
-| **Languages**             | English (Native Proficiency), Burmese (Native), Korean (Conversational)                                                         |
+
+- **Programming**: R, Python, JavaScript, HTML/CSS  
+- **Web Development**: jsPsych, Prolific, Qualtrics  
+- **Data Analysis**: Statistical analysis, Data Wrangling, Visualization (R, Python)  
+- **Tools**: VS Code, Git, Eye Tracking Technology, MATLAB (Psychtoolbox), OSF
+- **Languages**: English (Native), Burmese (Native), Korean (Conversational)  
 
 ---
