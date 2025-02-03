@@ -1,74 +1,98 @@
 
 # Emily Han  
-[GitHub](https://github.com/emilyh006) | [LinkedIn](https://www.linkedin.com/in/thwe-nwe-han/) | [Website](https://emilyh006.github.io/) | [Email](mailto:emh006@ucsd.edu)
+[GitHub](https://github.com/emilyh006) | [LinkedIn](https://www.linkedin.com/in/thwe-nwe-han/) | [Website](https://emilyh006.github.io/) | [Email: emilyh.tnh@gmail.com](mailto:emilyh.tnh@gmail.com)
 
 ---
+## Education  
 
-## Education
+#### M.S. in Computational Social Science  
+**University of California, San Diego (UCSD)** | **Jul 2024 - Jun 2025 (Expected)**  
+- **Relevant Coursework:**  
+  - Neural Networks and Deep Learning  
+  - Machine Learning for Social Science  
+  - Advanced Statistical Applications  
 
 
-- **2024 - Present** : M.S in Computational Social Science 
-    -  University of California, San Diego (UCSD) 
 
-- **2020 - 2023**    : B.S in Psychological and Brain Science 
-    - University of California, Santa Barbara (UCSB)
+#### B.S. in Psychological and Brain Science  
+**University of California, Santa Barbara (UCSB)** | **Sep 2020 - Sep 2023**  
+- **Relevant Coursework:**  
+  - Research Methods  
+  - Cultural Psychology  
+  - Cognitive Psychology  
 
 ---
 
 ## Research Experience
 
-|       Timeline     |           Lab Afflication                       |
-|--------------------|---------------------------------------------------|
-| **2024 - Present** | IMPACT Lab (UCSD) - Graduate Research Assistant   |
-| **2022 - 2023**    | VIU Lab (UCSB) - Undergraduate Research Assistant |
+
+
+#### Graduate Research Assistant  
+*IMPACT Lab* at University of California, San Diego (UCSD) | **2024 - Present**  
+- Built web interfaces for online trait-rating studies, optimizing data collection and participant engagement.  
+- Managed and analyzed data on rapid social judgments, focusing on perceptions of corruptibility in politicians based on facial cues.  
 
 
 
-#### Graduate Research Assistant
-*IMPACT Lab (UCSD)* | 2024 - Present
-
-- Develop web interfaces and experiments for multiple trait-rating studies, facilitating efficient data collection and participant engagement.
-- Oversee data management, processing, and analysis for studies investigating how individuals form rapid social judgments, focusing on perceptions of corruptibility in politicians based on facial cues.
-
-
-#### Undergraduate Research Assistant
-*VIU Lab (UCSB)* | 2022 - 2023
-- Conducted data collection for multiple studies, involving participant recruitment, administering experiments with psychophysical measure (eye tracking) 
-- Trained research assistants regarding pre-screening procedures, data collection, troubleshooting experiments
+#### Undergraduate Research Assistant  
+*VIU Lab* at University of California, Santa Barbara (UCSB) | **2022 - 2023**  
+- Recruited participants and collected data using psychophysical measures (eye tracking).  
+- Trained research assistants on pre-screening, data collection, and troubleshooting experiments.  
 
 
-#### Independent Projects 
-2022-2024
 
-- Led two comprehensive research studies as part of academic coursework, overseeing the full research process from study design and participant recruitment to data collection, statistical analysis, and presentation of findings
+#### Independent Projects  
+**2022 - 2024**  
+- Conducted two comprehensive research studies as part of academic coursework:  
+  - *Replication Study: "How Quick Decisions Illuminate Moral Character" (2024)*  
+  - *Effect of Cultural Priming on Bicultural Individuals (2022)*  
+- Managed the entire research process; including survey/web development, participant recruitment, data collection, statistical analysis, and presenting findings.  
 
 ---
 
 ## Projects
 
-| Timeline           | Topic                                                                                                  |
-|--------------------|--------------------------------------------------------------------------------------------------------|
-| **2024 - Present** | Development of Deep Learning Wrappers                                                                  |
-| **2024 - Present** | Investigating the generalizability and mechanism of the association between corruptible look and corruption record        |
-| **2024 - 2024**    | Replication Study of “How Quick Decisions Illuminate Moral Character” by Critcher et al. (2013)                      |
-| **2022 - 2023**    | A Preference to Look Closer to the Eyes is Associated with a Position-Invariant Face Neural Code                    |
-| **2022 - 2023**    | Effect of Cultural Priming: Information Processing and Social Perception Among Bicultural Individuals                       |
+#### Capstone Project  
+- **Development of Deep Learning Wrappers** *(2024 - Present)* 
+  - Develop scalable wrappers for deep learning libraries to streamline computational research, including data imputation.  
+  - **Methods/Techniques:** Built wrappers for TensorFlow, PyTorch, and MLX; automated data pre-processing; integrated deep learning libraries and optimized workflows.  
+<br>
 
-(See [Project Page](https://emilyh006.github.io/Projects.html) for details)
+#### Supervised Research Projects  
+- **Investigating the Generalizability and Mechanism of Corruptibility Perceptions** *(2024 - Present)*  
+  - Explore perceived corruptibility of American politicians across cultures, races, and genders.  
+  - **Methods/Techniques:** Developed web-based surveys using HTML, CSS, and JavaScript; analyzed cross-cultural datasets using R, focusing on data cleaning and interpretation.  
+- **A Preference to Look Closer to the Eyes is Associated with a Position-Invariant Face Neural Code** *(2022 - 2023)*  
+  - Examined how gaze preferences influence face neural representations using eye-tracking data.  
+  - **Methods/Techniques:** Collected gaze-contingent adaptation data through eye-tracking and MATLAB, and performed statistical analysis using R.  
+<br>
+
+
+#### Team Research Projects   
+*2022 - 2024*  
+- **Replication Study: "How Quick Decisions Illuminate Moral Character"** 
+  - Investigated moral judgments based on decision speed through a replication of Critcher et al. (2013).  
+  - **Methods/Techniques:** Designed experiments using jsPsych, performed statistical analysis and data visualization in R, and developed web-based experimental platforms.  
+- **Effect of Cultural Priming on Bicultural Individuals** 
+  - Studied the impact of cultural priming on cognitive styles in bicultural individuals.  
+  - **Methods/Techniques:** Designed surveys in Qualtrics, conducted participant recruitment through social media, and performed statistical analyses using R.  
+
+
+<br>
+<br>
+
+**See [Project Page](project.html) for further detail** 
 
 ---
 
 ## Skills
 
 
-| **Domain**               | **Skills**                                                                 |
-|--------------------------|---------------------------------------------------------------------------|
-| **Programming**           | Python, R, JavaScript, HTML/CSS                                           |
-| **Experiment Design**     | Designing and conducting experiments using online platforms (e.g., jsPsych, Prolific); knowledge of experimental paradigms and research methodologies |
-| **Data Management & Processing** | Expertise in organizing, cleaning, and processing experimental datasets; proficiency in data wrangling and manipulation |
-| **Statistical Analysis**  | Conducting statistical analysis, including hypothesis testing, regression modeling, and effect size estimations |
-| **Data Visualization & Reporting** | Proficient in visualizing data; experience with generating clear, actionable reports |
-| **Tools & Platforms**     | GitHub, VS Code, R Studio, Eye Tracking Technology, MATLAB (Psychtoolbox), jsPsych, Qualtrics, Prolific, Jupyter Notebooks |
-| **Languages**             | English & Burmese                                                          |
+
+- **Programming**: R, Python, JavaScript, HTML/CSS  
+- **Web Development**: jsPsych, Prolific, Qualtrics  
+- **Data Analysis**: Statistical analysis, Data Wrangling, Visualization (R, Python)  
+- **Tools**: VS Code, Git, Eye Tracking Technology, MATLAB (Psychtoolbox), OSF
+- **Languages**: English (Native), Burmese (Native), Korean (Conversational)  
 
 ---
